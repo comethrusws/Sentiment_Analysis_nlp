@@ -12,7 +12,6 @@ The challenge involves building a sentiment analysis system that can effectively
 - Use of modern NLP techniques (SpaCy and Transformers)
 
 ## Technical Implementation
-Originally developed as a Jupyter Notebook (.ipynb) and converted to Python script, this solution implements:
 - Data preprocessing using SpaCy with GPU acceleration
 - TF-IDF vectorization for feature extraction
 - Logistic Regression for baseline classification
@@ -32,21 +31,6 @@ Originally developed as a Jupyter Notebook (.ipynb) and converted to Python scri
   - kaggle
   - tqdm
 
-## Project Structure
-```
-fellowship_sentiment_analysis_challenge_basab.ipynb/
-├── Data Loading and Inspection
-├── Text Preprocessing
-│   ├── HTML cleanup
-│   ├── Character normalization
-│   └── SpaCy processing
-├── Feature Engineering
-│   └── TF-IDF Vectorization
-├── Model Implementation
-│   ├── Logistic Regression
-│   └── Transformer-based analysis
-└── Evaluation and Visualization
-```
 
 ## Key Features
 
